@@ -1,0 +1,5 @@
+{
+  "name": "Connectivity Intelligence Suite",
+  "description": "A Python desktop application generator for network optimization and profiling.",
+  "requestFramePermissions": []
+}

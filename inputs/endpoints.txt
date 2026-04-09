@@ -1,0 +1,3 @@
+google.com:443
+github.com:443
+aws.amazon.com:443
